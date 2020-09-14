@@ -29,16 +29,16 @@ function getCurrentDay() {
     }
 
     if (h >= 5 && h <= 10) {
-        greeting = "Good Morning";
+        greeting = "Happy Birthday!!!";
         changeBackgroundAnimation(1);
     } else if (h >= 11 && h <= 15) {
-        greeting = "Good Afternoon";
+        greeting = "Happy Birthday!!!";
         changeBackgroundAnimation(1);
     } else if (h >= 16 && h <= 18) {
-        greeting = "Good Evening";
+        greeting = "Happy Birthday!!!";
         changeBackgroundAnimation(2);
     } else {
-        greeting = "Good Night";
+        greeting = "Happy Birthday!!!";
         changeBackgroundAnimation(2);
     }
 
