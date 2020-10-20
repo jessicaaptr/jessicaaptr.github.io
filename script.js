@@ -23,7 +23,7 @@ function getCurrentDay() {
     var i = 0;
 
     if (nameRaw == null || nameRaw == "") {
-        name = "Jessica Eka Putri";
+        name = "Salma Tanisya Kamila";
     } else {
         name = nameRaw;
     }
